@@ -1,0 +1,1 @@
+In this program one can journey details and no. of passangers and get the total fare and per person share.
