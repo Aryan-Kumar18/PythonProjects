@@ -9,13 +9,13 @@ total_repayment = principal + total_interest
 total_months = years * 12
 monthly_installment = total_repayment / total_months
 
-print("\n" + "#" * 32)
+print("\n" + "#" * 34)
 print("     LOAN SUMMARY REPORT")
-print("#" * 32)
+print("#" * 34)
 print(f"Borrowed Amount:    ₹{principal:,.2f}")
 print(f"Total Interest:     ₹{total_interest:,.2f}")
 print(f"Gross Repayable:    ₹{total_repayment:,.2f}")
 print(f"Monthly Cost:       ₹{monthly_installment:,.2f} ({total_months} months)")
-print("-" * 32)
+print("-" * 34)
 print(f"Interest > 20% of Loan? {total_interest > (principal * 0.20)}")
-print("#" * 32)
+print("#" * 34)
