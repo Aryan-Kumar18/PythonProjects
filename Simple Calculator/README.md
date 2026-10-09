@@ -1,0 +1,1 @@
+This is a simple Calculator where one can do Addition,Subtraction,Multiplication,Division & Exponentiation.
