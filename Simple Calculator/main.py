@@ -25,3 +25,5 @@ elif (c==5):
 else:
     print("Invalid Choice")
 print("="*50)
+print("            Thanks for using the calculator")
+print("="*50)
