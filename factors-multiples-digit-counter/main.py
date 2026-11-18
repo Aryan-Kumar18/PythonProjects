@@ -1,6 +1,6 @@
-print("="*65)
+print("="*67)
 print("      Welcome to the Factors, Multiples, and Digit Counter Program!")
-print("="*65)
+print("="*67)
 n=int(input("Enter a positive number: "))
 print("")
 if n<=0:
