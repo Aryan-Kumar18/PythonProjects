@@ -1,0 +1,4 @@
+Number Guessing Game 🎮
+
+The Number Guessing Game is a simple Python-based interactive game in which the computer randomly selects a number between 1 and 20, and the player has to guess the correct number within 5 attempts. After each incorrect guess, the program provides a hint indicating whether the guessed number is too high or too low. The game also includes a menu-driven interface that allows users to start the game, view the rules, or exit. Invalid guesses outside the specified range are not counted as attempts. This project is developed using
+Python concepts such as loops, conditional statements, user input, the random module, and control statements like break and continue.
